@@ -27,6 +27,7 @@ public class BreakPoint {
 	
 	public static String test2() {
 		int k = 0;
+		int n = 2;
 		int m = 1;
 		for(int i = 0; i<=5; i++) {
 			k++;
